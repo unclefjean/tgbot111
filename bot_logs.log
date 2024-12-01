@@ -1,0 +1,24 @@
+2024-11-21 12:22:37,622 - INFO - Бот успешно запущен.
+2024-11-21 12:22:38,256 - INFO - HTTP Request: POST https://api.telegram.org/bot7814014008:AAHXEAuNW5RP7AUbS2CUdgdNglXJKE82aCw/getMe "HTTP/1.1 200 OK"
+2024-11-21 12:22:38,560 - INFO - HTTP Request: POST https://api.telegram.org/bot7814014008:AAHXEAuNW5RP7AUbS2CUdgdNglXJKE82aCw/deleteWebhook "HTTP/1.1 200 OK"
+2024-11-21 12:22:38,562 - INFO - Application started
+2024-11-21 12:22:39,382 - INFO - HTTP Request: POST https://api.telegram.org/bot7814014008:AAHXEAuNW5RP7AUbS2CUdgdNglXJKE82aCw/getUpdates "HTTP/1.1 200 OK"
+2024-11-21 12:22:39,687 - INFO - HTTP Request: POST https://api.telegram.org/bot7814014008:AAHXEAuNW5RP7AUbS2CUdgdNglXJKE82aCw/getFile "HTTP/1.1 200 OK"
+2024-11-21 12:22:40,198 - INFO - HTTP Request: GET https://api.telegram.org/file/bot7814014008%3AAAHXEAuNW5RP7AUbS2CUdgdNglXJKE82aCw/documents/file_446.pdf "HTTP/1.1 200 OK"
+2024-11-21 12:22:40,201 - INFO - Получен PDF-файл: input_BQACAgIAAxkBAAIIuWc-3zUwm7y7uvTLZP6AJykHXKEvAAJOWgACCmL5SVs1k1YC3ECTNgQ.pdf. Всего файлов: 1
+2024-11-21 12:22:40,621 - INFO - HTTP Request: POST https://api.telegram.org/bot7814014008:AAHXEAuNW5RP7AUbS2CUdgdNglXJKE82aCw/sendMessage "HTTP/1.1 200 OK"
+2024-11-21 12:22:40,827 - INFO - HTTP Request: POST https://api.telegram.org/bot7814014008:AAHXEAuNW5RP7AUbS2CUdgdNglXJKE82aCw/getFile "HTTP/1.1 200 OK"
+2024-11-21 12:22:41,027 - INFO - HTTP Request: GET https://api.telegram.org/file/bot7814014008%3AAAHXEAuNW5RP7AUbS2CUdgdNglXJKE82aCw/documents/file_447.pdf "HTTP/1.1 200 OK"
+2024-11-21 12:22:41,028 - INFO - Получен PDF-файл: input_BQACAgIAAxkBAAIIumc-3zW6OFatlMe7_83BDq6rGrPYAAJQWgACCmL5ScCn6MFcElh7NgQ.pdf. Всего файлов: 2
+2024-11-21 12:23:21,542 - INFO - Бот успешно запущен.
+2024-11-21 12:23:22,187 - INFO - HTTP Request: POST https://api.telegram.org/bot7814014008:AAHXEAuNW5RP7AUbS2CUdgdNglXJKE82aCw/getMe "HTTP/1.1 200 OK"
+2024-11-21 12:23:22,336 - INFO - HTTP Request: POST https://api.telegram.org/bot7814014008:AAHXEAuNW5RP7AUbS2CUdgdNglXJKE82aCw/deleteWebhook "HTTP/1.1 200 OK"
+2024-11-21 12:23:22,339 - INFO - Application started
+2024-11-21 12:23:22,909 - INFO - HTTP Request: POST https://api.telegram.org/bot7814014008:AAHXEAuNW5RP7AUbS2CUdgdNglXJKE82aCw/getUpdates "HTTP/1.1 200 OK"
+2024-11-21 12:23:23,106 - INFO - HTTP Request: POST https://api.telegram.org/bot7814014008:AAHXEAuNW5RP7AUbS2CUdgdNglXJKE82aCw/getFile "HTTP/1.1 200 OK"
+2024-11-21 12:23:23,517 - INFO - HTTP Request: GET https://api.telegram.org/file/bot7814014008%3AAAHXEAuNW5RP7AUbS2CUdgdNglXJKE82aCw/documents/file_448.pdf "HTTP/1.1 200 OK"
+2024-11-21 12:23:23,521 - INFO - Получен PDF-файл: input_BQACAgIAAxkBAAIIvmc-387twMANF3I049OjV3avElyFAAJUWgACCmL5SbdNpbgF2ZceNgQ.pdf. Всего файлов: 1
+2024-11-21 12:23:23,824 - INFO - HTTP Request: POST https://api.telegram.org/bot7814014008:AAHXEAuNW5RP7AUbS2CUdgdNglXJKE82aCw/sendMessage "HTTP/1.1 200 OK"
+2024-11-21 12:23:24,025 - INFO - HTTP Request: POST https://api.telegram.org/bot7814014008:AAHXEAuNW5RP7AUbS2CUdgdNglXJKE82aCw/getFile "HTTP/1.1 200 OK"
+2024-11-21 12:23:24,239 - INFO - HTTP Request: GET https://api.telegram.org/file/bot7814014008%3AAAHXEAuNW5RP7AUbS2CUdgdNglXJKE82aCw/documents/file_449.pdf "HTTP/1.1 200 OK"
+2024-11-21 12:23:24,240 - INFO - Получен PDF-файл: input_BQACAgIAAxkBAAIIv2c-3853DZG-P9eEwuWGFoYn6rvuAAJVWgACCmL5Sff9ItRV_1CYNgQ.pdf. Всего файлов: 2
